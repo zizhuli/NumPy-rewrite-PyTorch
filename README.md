@@ -15,5 +15,4 @@ All codes are saved in folder **src**.
 | ------------------ | ----------------------------- |
 | one_hot            | torch.nn.functional.one_hot() |
 |                    |                               |
-|                    |                               |
 
