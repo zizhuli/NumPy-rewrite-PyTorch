@@ -10,4 +10,10 @@ All codes are saved in folder **src**.
 实现的代码放在文件夹**src**中
 
 <br>
-# Functions that have been implemented
+
+| Functions that have been implemented | PyTorch                       |
+| ------------------------------------ | ----------------------------- |
+| one_hot                              | torch.nn.functional.one_hot() |
+|                                      |                               |
+|                                      |                               |
+
