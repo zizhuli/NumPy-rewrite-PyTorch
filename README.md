@@ -11,9 +11,9 @@ All codes are saved in folder **src**.
 
 <br>
 
-| Functions that have been implemented | PyTorch                       |
-| ------------------------------------ | ----------------------------- |
-| one_hot                              | torch.nn.functional.one_hot() |
-|                                      |                               |
-|                                      |                               |
+| Realized functions | PyTorch                       |
+| ------------------ | ----------------------------- |
+| one_hot            | torch.nn.functional.one_hot() |
+|                    |                               |
+|                    |                               |
 
